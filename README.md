@@ -156,10 +156,10 @@ To visualize the embeddings, include the lines 318 to 340 in ``train_scgm_g.py``
 
 ## Citation
 ```
-@inproceedings{ni2021superclass,
+@inproceedings{ni2022superclass,
   title={Superclass-Conditional Gaussian Mixture Model For Learning Fine-Grained Embeddings},
   author={Ni, Jingchao and Cheng, Wei and Chen, Zhengzhang and Asakura, Takayoshi and Soma, Tomoya and Kato, Sho and Chen, Haifeng},
   booktitle={International Conference on Learning Representations},
-  year={2021}
+  year={2022}
 }
 ```
